@@ -23,6 +23,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'json', github: 'flori/json', branch: 'v1.8'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0', group: :doc
+gem 'annotate', '~> 2.7', '>= 2.7.1'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
